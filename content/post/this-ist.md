@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-02-04T23:00:00Z
-draft = true
 excerpt = "more to learn from blindtest"
 hero = "/static/images/57e1a3cfb0ef97eb018b709b.webp"
 title = "this ist"
